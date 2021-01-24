@@ -1,1 +1,1 @@
-# Node-projects
+# collections of projects.
