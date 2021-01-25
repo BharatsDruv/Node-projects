@@ -1,1 +1,1 @@
-# collections of projects.
+# collections of web apps.
